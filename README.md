@@ -40,6 +40,6 @@
  - Завдання немає єдиноправильного вирішення, воно розраховане на перегляд логіки побудови взаємозвязків та іншого
 
 
-### Commnunity
+## Commnunity
 
-# properties members is more generic than gamers, this allows in future to add other members like Admin, Moderator etc.
+### properties members is more generic than gamers, this allows in future to add other members like Admin, Moderator etc.
