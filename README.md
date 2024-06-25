@@ -39,7 +39,16 @@
  - По можливості покрити тестами - один тест (jest якщо можливо)
  - Завдання немає єдиноправильного вирішення, воно розраховане на перегляд логіки побудови взаємозвязків та іншого
 
+# Prerequisite
+```bash
+npm i
+```
 
-## Commnunity
+## Usage
+```bash
+npm run start
+```
 
-### properties members is more generic than gamers, this allows in future to add other members like Admin, Moderator etc.
+### Commnunity
+
+#### properties members is more generic than gamers, this allows in future to add other members like Admin, Moderator etc.
