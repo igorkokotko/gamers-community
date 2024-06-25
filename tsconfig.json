@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+  "module": "commonjs",
+  "noImplicitReturns": true,
+  "outDir": "lib",
+  "sourceMap": true,
+  "strict": true,
+  "target": "es2017",
+  "esModuleInterop": true,
+  "noUnusedLocals": false,
+  "noUnusedParameters": false,
+  },
+  "compileOnSave": true,
+  "include": [
+    "**/*.ts",
+    "index.ts"
+  ]
+}
